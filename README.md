@@ -58,17 +58,6 @@ blink-reminder-system/
 ├── .gitignore
 └── README.md
 
-## Future Enhancements
-Improve eye detection accuracy using MediaPipe Face Mesh
-Add automatic blink detection
-Add eye exercise recommendations
-Add configurable fixation time thresholds
-Add daily eye-care statistics and reports
-Add a graphical user interface (GUI)
-Add desktop notifications
-Add user activity and health logs
-Add machine learning-based eye fatigue detection
-Support multiple operating systems
 
 ## Installation Steps
 
@@ -76,21 +65,24 @@ Support multiple operating systems
 
 ```bash
 git clone https://github.com/shaikabida617/blink-remainder-system.git
+
 2. Navigate to the Project Directory
 cd blink-remainder-system
+
 3. Create a Virtual Environment
 python -m venv venv
+
 4. Activate the Virtual Environment
-
 For Windows PowerShell:
-
 venv\Scripts\Activate.ps1
+
 5. Install Required Dependencies
 pip install -r requirements.txt
+
 6. Run the Project
 python main.py
-7. Stop the Application
 
+7. Stop the Application
 To stop the application, press:
 
 Q
