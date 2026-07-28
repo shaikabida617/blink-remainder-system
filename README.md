@@ -58,7 +58,7 @@ blink-reminder-system/
 ├── .gitignore
 └── README.md
 
-Future Enhancements
+## Future Enhancements
 Improve eye detection accuracy using MediaPipe Face Mesh
 Add automatic blink detection
 Add eye exercise recommendations
@@ -99,7 +99,7 @@ Q
 **Important:** Your actual GitHub repository is **`blink-remainder-system`** (with **remainder**), so use this exact URL:
 :contentReference[oaicite:0]{index=0}
 
-Author:
+## Author:
 
 Shaik Abida
 
